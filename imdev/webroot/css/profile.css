@@ -1,0 +1,64 @@
+
+#logo{
+	    height: 70px;
+    
+    float: left;
+}
+#header{
+	    height: 70px;
+    background: orange;
+    width: 100%;
+    
+}
+.container{
+	width: 100%;
+}
+#tab{
+	    padding: 25px;
+}
+#tab a{
+	text-decoration: none;
+}
+.panel-body ul p a{
+	text-decoration: none;
+	color: #000;
+}
+#center{
+    padding: 5px;
+    margin:20px;
+}
+.panel-body{
+	padding-top:20px;
+	height: 600px;
+}
+#left{
+	
+    height: 550px;
+    padding: 10px;
+}
+#content{
+    height: 550px;
+    padding: 10px;
+}
+#left img{
+	width: 200px;
+	    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+.btn-default-1{
+	margin-left: 35%;
+}
+.form-group{
+	width: 70%;
+}
+.img{
+	height: 220px;
+    border: 1px solid gray;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
